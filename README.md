@@ -12,3 +12,11 @@ This project was created in Solana playground IDE than exported to local enviorm
 - **Pause and Unpause: The admin can pause or unpause the contract to prevent interactions during critical updates.**
 - **Price Impact Control: Prevents users from receiving fewer tokens than expected during swaps by enforcing a minimum acceptable output.**
 
+  ## Contributing
+  Contributions and feedback are welcomed :)
+  
+## License
+
+
+
+
