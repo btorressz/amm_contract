@@ -16,6 +16,8 @@ This project was created in Solana playground IDE than exported to local enviorm
   Contributions and feedback are welcomed :)
   
 ## License
+This project is licensed under the MIT License.
+
 
 
 
